@@ -1,3 +1,2 @@
-
 game:GetService("Players").LocalPlayer.PlayerGui.LevelCreator.BackDrop.Windows.Water.WaterTrans.Visible = true
 end)
